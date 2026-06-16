@@ -150,7 +150,7 @@ The person is diabetic.
 
 ## 👨‍💻 Author
 
-**Saru**
+**Sarath Pandranki**
 
 Computer Science & Engineering Student
 
